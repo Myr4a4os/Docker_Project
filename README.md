@@ -1,1 +1,3 @@
-![cards.png](../../Documents/Lightshot/cards.png)
+### Скриншот ответа приложения
+
+![Ответ приложения](images/cards.png)
